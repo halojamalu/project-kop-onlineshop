@@ -1,5 +1,5 @@
 PROSES
-- Membuat UI/UX untuk website;
 - Proses pembuatan konten,icon dan logo;
 - Pengumpulan Data produk dari para anggota kop;
-- Dilengkapi fitur jasa ongkir lokal dengan memiliki dasbord masing2 kurir  
+- Dilengkapi fitur jasa ongkir lokal dengan memiliki dasbord masing2 kurir;  
+- coding project dengan html css dan javascript responsive web;
